@@ -11,3 +11,6 @@
 . python3 /home/$USER/privateGPT/privateGPT.py
 
 ## Windows | Coming soon...
+
+## Documentation
+https://github.com/imartinez/privateGPT
