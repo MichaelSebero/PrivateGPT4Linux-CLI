@@ -1,9 +1,8 @@
 ## Requirements
-. NVIDIA GPU. 
+. NVIDIA GPU
 
-. Linux or Windows.
+. Linux
 
-## Linux
 ```
 cd /path/to/file
 
@@ -11,7 +10,7 @@ sh linux-installer.sh
 
 python3 /home/$USER/privateGPT/privateGPT.py
 ```
-## How to use privateGPT (LINUX) 
+## How to use privateGPT
 
  cd /home/$USER/privateGPT
 
@@ -23,8 +22,6 @@ sudo python3 ingest.py
 ```
 sudo python3 privateGPT.py
 ```
-
-## Windows | Coming soon...
 
 ## Documentation
 https://github.com/imartinez/privateGPT
