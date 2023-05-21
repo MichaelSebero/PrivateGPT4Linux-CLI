@@ -10,7 +10,6 @@ cd /path/to/file
 sh linux-installer.sh
 
 python3 /home/$USER/privateGPT/privateGPT.py
-
 ```
 ## How to use privateGPT (LINUX) 
 
