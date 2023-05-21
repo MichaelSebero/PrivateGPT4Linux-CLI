@@ -8,7 +8,7 @@
 ```
 cd /path/to/file
 
-sh linux-installer.sh
+sh installer.sh
 
 python3 /home/$USER/privateGPT/privateGPT.py
 ```
@@ -17,11 +17,11 @@ python3 /home/$USER/privateGPT/privateGPT.py
 ```
 cd /home/$USER/privateGPT
 ```
-### Ingest documents
+## Ingest documents
 ```
 sudo python3 ingest.py
 ```
-### Run privateGPT
+## Run privateGPT
 ```
 sudo python3 privateGPT.py
 ```
