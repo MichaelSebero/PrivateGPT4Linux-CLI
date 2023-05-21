@@ -13,7 +13,9 @@ sh installer.sh
 python3 /home/$USER/privateGPT/privateGPT.py
 ```
 
-## Ingest documents
+## How to use privateGPT
+
+### Ingest documents
 . Put any and all your files into the `source_documents` directory.
 The supported extensions are:
 
@@ -32,11 +34,11 @@ The supported extensions are:
    - `.ppt` : PowerPoint Document,
    - `.txt`: Text file (UTF-8),
 
-Run the following command below to ingest the data.
+Run the following command below to ingest data the data.
 ```
-cd /home/$USER/privateGPT && sudo python3 /home/$USER/privateGPT ingest.py
+cd /home/$USER/privateGPT && sudo python3 ingest.py
 ```
-## Run privateGPT
+### Run privateGPT
 ```
 cd /home/$USER/privateGPT && sudo python3 privateGPT.py
 ```
