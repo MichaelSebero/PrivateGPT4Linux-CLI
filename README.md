@@ -10,7 +10,7 @@ cd /path/to/file
 
 sh installer.sh
 
-python3 /home/$USER/privateGPT/privateGPT.py
+sudo python3 /home/$USER/privateGPT/privateGPT.py
 ```
 
 ## How to use privateGPT
@@ -36,11 +36,11 @@ The supported extensions are:
 
 Run the following command below to ingest data the data.
 ```
-cd /home/$USER/privateGPT && sudo python3 ingest.py
+sudo python3 /home/$USER/privateGPT/ingest.py
 ```
 ### Run privateGPT
 ```
-cd /home/$USER/privateGPT && sudo python3 privateGPT.py
+sudo python3 /home/$USER/privateGPT/privateGPT.py
 ```
 ## Documentation
 https://github.com/imartinez/privateGPT
