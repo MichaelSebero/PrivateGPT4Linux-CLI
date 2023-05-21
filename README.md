@@ -10,6 +10,15 @@
 
 . python3 /home/$USER/privateGPT/privateGPT.py
 
+## How to use privateGPT (LINUX) 
+. cd /home/$USER/privateGPT
+
+### Ingest documents
+. sudo python3 ingest.py
+
+### Run privateGPT
+. sudo python3 privateGPT.py
+
 ## Windows | Coming soon...
 
 ## Documentation
