@@ -36,7 +36,7 @@ The supported extensions are:
    - `.ppt` : PowerPoint Document,
    - `.txt`: Text file (UTF-8),
 
-Run the following command to ingest all the data.
+Run the following command below to ingest the data.
 ```
 sudo python3 ingest.py
 ```
