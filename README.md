@@ -4,20 +4,26 @@
 . Linux or Windows.
 
 ## Linux
-. cd /path/to/file
+```
+cd /path/to/file
 
-. sh linux-installer.sh
+sh linux-installer.sh
 
-. python3 /home/$USER/privateGPT/privateGPT.py
+python3 /home/$USER/privateGPT/privateGPT.py
 
+```
 ## How to use privateGPT (LINUX) 
-. cd /home/$USER/privateGPT
+
+ cd /home/$USER/privateGPT
 
 ### Ingest documents
-. sudo python3 ingest.py
-
+```
+sudo python3 ingest.py
+```
 ### Run privateGPT
-. sudo python3 privateGPT.py
+```
+sudo python3 privateGPT.py
+```
 
 ## Windows | Coming soon...
 
