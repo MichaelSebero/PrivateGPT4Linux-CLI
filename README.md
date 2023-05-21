@@ -18,6 +18,7 @@ python3 /home/$USER/privateGPT/privateGPT.py
 cd /home/$USER/privateGPT
 ```
 ## Ingest documents
+. Put any and all your files into the 'source_documents' directory
 ```
 sudo python3 ingest.py
 ```
