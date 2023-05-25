@@ -9,8 +9,6 @@
 cd /path/to/file
 
 sh installer.sh
-
-sudo python3 /home/$USER/privateGPT/privateGPT.py
 ```
 
 ## How to use privateGPT
