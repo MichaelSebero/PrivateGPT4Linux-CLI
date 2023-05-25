@@ -1,7 +1,7 @@
 ## Requirements
-. NVIDIA GPU
-
 . Linux
+
+. NVIDIA GPU
 
 ## How to install privateGPT
 
