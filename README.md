@@ -15,7 +15,7 @@ sudo python3 /home/$USER/privateGPT/privateGPT.py
 
 ## How to use privateGPT
 
-### Ingest documents
+### Ingest documents first
 . Put any and all your files into the `source_documents` directory.
 The supported extensions are:
 
