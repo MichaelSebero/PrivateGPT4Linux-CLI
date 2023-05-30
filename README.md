@@ -3,7 +3,7 @@
 
 . NVIDIA GPU
 
-## How to install privateGPT
+## How to install PrivateGPT4Linux
 
 ```
 cd /path/to/file
