@@ -13,11 +13,7 @@ sh installer.sh
 
 ## How to use PrivateGPT4Linux
 
-### 1. Run PrivateGPT4Linux
-```
-sudo python3 /home/$USER/PrivateGPT4Linux/PrivateGPT4Linux.py
-```
-### 2. Ingest documents
+### 1. Ingest documents
 . Put any and all your files into the `source_documents` directory.
 The supported extensions are:
 
@@ -39,4 +35,8 @@ The supported extensions are:
 Run the following command below to ingest data the data.
 ```
 sudo python3 /home/$USER/PrivateGPT4Linux/ingest.py
+```
+### 2. Run PrivateGPT4Linux
+```
+sudo python3 /home/$USER/PrivateGPT4Linux/PrivateGPT4Linux.py
 ```
