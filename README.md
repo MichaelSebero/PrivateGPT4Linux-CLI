@@ -6,9 +6,9 @@
 ## How to install PrivateGPT4Linux
 
 ```
-cd /path/to/file
+curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux-Installer/main/installer.sh"
 
-sh installer.sh
+sh /home/$USER/installer.sh
 ```
 
 ## How to use PrivateGPT4Linux
