@@ -11,7 +11,7 @@ cd /path/to/file
 sh installer.sh
 ```
 
-## How to use privateGPT
+## How to use PrivateGPT4Linux
 
 ### 1. Run PrivateGPT4Linux
 ```
