@@ -2,7 +2,7 @@
 
 # License: GNU GPLv3
 
-cd /home/$USER && git clone https://github.com/imartinez/privateGPT && su -c '
+git clone https://github.com/imartinez/privateGPT && su -c '
 GPT4ALL="curl -LO https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin"
 ENV="curl -LO https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/.env"
 
