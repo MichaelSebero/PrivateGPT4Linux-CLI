@@ -32,7 +32,7 @@ The supported extensions are:
    - `.ppt` : PowerPoint Document,
    - `.txt`: Text file (UTF-8),
 
-Run the following command below to ingest data the data.
+Run the following command below to ingest the data.
 ```
 sudo python3 /home/$USER/privateGPT/ingest.py
 ```
