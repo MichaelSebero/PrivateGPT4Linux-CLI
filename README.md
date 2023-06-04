@@ -1,5 +1,5 @@
 ## Requirements
-. Arch Based System 
+. Arch-based system 
 
 . NVIDIA GPU
 
