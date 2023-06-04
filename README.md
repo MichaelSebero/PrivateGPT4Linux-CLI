@@ -1,4 +1,6 @@
 ## Requirements
+. Pip
+
 . Arch-based system 
 
 . NVIDIA GPU
