@@ -1,5 +1,5 @@
 ## Requirements
-. Linux
+. Arch Linux 
 
 . NVIDIA GPU
 
@@ -40,4 +40,3 @@ sudo python3 /home/$USER/privateGPT/ingest.py
 ```
 sudo python3 /home/$USER/privateGPT/privateGPT.py
 ```
-
