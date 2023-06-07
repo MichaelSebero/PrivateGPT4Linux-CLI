@@ -3,8 +3,6 @@
 
 . Arch-based system 
 
-. NVIDIA GPU
-
 ## How to install
 
 ```
@@ -36,9 +34,9 @@ The supported extensions are:
 
 Run the following command below to ingest the data.
 ```
-sudo python3 /home/$USER/privateGPT/ingest.py
+python3 /home/$USER/privateGPT/ingest.py
 ```
 ### 2. Run privateGPT
 ```
-sudo python3 /home/$USER/privateGPT/privateGPT.py
+python3 /home/$USER/privateGPT/privateGPT.py
 ```
