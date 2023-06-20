@@ -8,7 +8,7 @@
 ```
 curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/installer.sh"
 
-sh /home/$USER/installer.sh
+sh installer.sh
 ```
 
 ## How to use
