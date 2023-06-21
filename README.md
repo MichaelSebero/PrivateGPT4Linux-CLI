@@ -1,5 +1,5 @@
 ## Requirements
-. Python-pipenv
+. Python-pip
 
 . Arch-based system 
 
