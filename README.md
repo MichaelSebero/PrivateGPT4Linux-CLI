@@ -34,9 +34,9 @@ The supported extensions are:
 
 Run the following command below to ingest the data.
 ```
-python3 /home/$USER/privateGPT/ingest.py
+cd /home/$USER/privateGPT && python3 ingest.py
 ```
 ### 2. Run privateGPT
 ```
-python3 /home/$USER/privateGPT/privateGPT.py
+cd /home/$USER/privateGPT && python3 privateGPT.py
 ```
