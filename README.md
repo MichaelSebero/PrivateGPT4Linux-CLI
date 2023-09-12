@@ -1,8 +1,6 @@
 ## Requirements
 . Python-pip
 
-. Arch-based system 
-
 ## How to install
 
 ```
