@@ -1,6 +1,3 @@
-## Requirements
-. Python-pip
-
 ## How to install
 
 ```
