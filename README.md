@@ -1,4 +1,4 @@
-## How to install
+## How to Install
 
 ```
 curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/installer.sh"
@@ -6,9 +6,9 @@ curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/
 sh installer.sh
 ```
 
-## How to use
+## How to Use
 
-### 1. Ingest documents
+### 1. Ingest Documents
 . Put any and all your files into the `source_documents` directory.
 The supported extensions are:
 
@@ -31,7 +31,7 @@ Run the following command below to ingest the data.
 ```
 cd /home/$USER/privateGPT && python3 ingest.py
 ```
-### 2. Run privateGPT
+### 2. Run PrivateGPT
 ```
 cd /home/$USER/privateGPT && python3 privateGPT.py
 ```
