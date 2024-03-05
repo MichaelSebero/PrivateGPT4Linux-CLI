@@ -1,6 +1,6 @@
 ## How to Install
 
-New Configuration
+### New Configuration
 
 ```
 curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/installer.sh"
@@ -8,7 +8,7 @@ curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/
 sh installer.sh
 ```
 
-Original Configuration
+### Original Configuration
 
 ```
 curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/original-installer/installer.sh"
