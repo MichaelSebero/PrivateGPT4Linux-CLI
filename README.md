@@ -3,7 +3,7 @@
 ### New Configuration
 
 ```
-curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/installer.sh"
+curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux-CLI/main/installer.sh"
 
 sh installer.sh
 ```
@@ -11,7 +11,7 @@ sh installer.sh
 ### Original Configuration
 
 ```
-curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/original-installer/installer.sh"
+curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux-CLI/main/original-installer/installer.sh"
 
 sh installer.sh
 ```
@@ -38,6 +38,7 @@ The supported extensions are:
    - `.txt`: Text file (UTF-8),
 
 Run the following command below to ingest the data.
+
 ```
 cd /home/$USER/privateGPT && python3 ingest.py
 ```
